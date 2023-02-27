@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "843400075916",
+    "firebase_url": "https://letsbuy-21bff.firebaseio.com",
+    "project_id": "letsbuy-21bff",
+    "storage_bucket": "letsbuy-21bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843400075916:android:14be609f83867ad4",
+        "android_client_info": {
+          "package_name": "com.lets.buyapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843400075916-jckmnpjsf29ep8p6bpnsf1rihtdesv56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lets.buyapk",
+            "certificate_hash": "3a6aa8c5668b74be59608c392656d48aa7028c65"
+          }
+        },
+        {
+          "client_id": "843400075916-gaep4kg65nvloc7vjd6ro8a959s5m31j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lets.buyapk",
+            "certificate_hash": "548f81868843e34ee7201c9f6d5ffdb908a349ae"
+          }
+        },
+        {
+          "client_id": "843400075916-e18uspnjgafe4q2aj0k7sn1b4mm7ekvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lets.buyapk",
+            "certificate_hash": "1e5625ac0629db1ab23a49ab17f3edc859d52165"
+          }
+        },
+        {
+          "client_id": "843400075916-hcbplvldqtsqm73hd7mljhqt9pa0obk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxB9R6jmSDbp06_oddbzX67y8dmzqDd9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843400075916-c5nhm4nnob1ngu0obkmmtiv1n6d5floa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843400075916-7m7dkkf32jm91cpj90poo920bumltues.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.morb7.letsBuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

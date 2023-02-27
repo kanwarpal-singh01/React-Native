@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Lets Buy</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb2270987556550430</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.123662298510-lks9eo7eac9c79sgoinhch2mtqj8obfg</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.843400075916-7m7dkkf32jm91cpj90poo920bumltues</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.morb7.letsBuy.payments</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>2270987556550430</string>
+	<key>FacebookDisplayName</key>
+	<string>LetsBuy</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>com.morb7.letsBuy.payments</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>goNDA want to use Media Library for set your profile avatar.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>goNDA want to use Bluetooth.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>goNDA want to use Bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>goNDA want to use Calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>goNDA want to use camera for upload profile image.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>goNDA want to use your current location for getting address.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>goNDA want to use your current location for getting address.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>goNDA want to use your current location for address fetching</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>goNDA want to use Microphone for record the audio while capturing video.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>goNDA want to use Motion Sensor</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>goNDA want to use photo Library for upload bug reports image.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>goNDA want to use Speech Recongition for capture text from Voice</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>fontello.ttf</string>
+		<string>ExpletusSans-Regular.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>NunitoSans-Bold.ttf</string>
+		<string>NunitoSans-Regular.ttf</string>
+		<string>NunitoSans-SemiBold.ttf</string>
+		<string>MCS_Taif_S_U_normal.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

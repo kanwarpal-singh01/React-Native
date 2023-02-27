@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheSpot.iml" filepath="$PROJECT_DIR$/.idea/modules/TheSpot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610672802/TheSpot.@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610672802/TheSpot.@react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-895786589/TheSpot.@react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-895786589/TheSpot.@react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheSpot.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheSpot.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/647752099/TheSpot.invertase_react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/647752099/TheSpot.invertase_react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/870209539/TheSpot.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/870209539/TheSpot.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610672802/TheSpot.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610672802/TheSpot.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751550207/TheSpot.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1751550207/TheSpot.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-429814017/TheSpot.react-native-firebase_admob.iml" filepath="$PROJECT_DIR$/.idea/modules/-429814017/TheSpot.react-native-firebase_admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-895786589/TheSpot.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-895786589/TheSpot.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/295414278/TheSpot.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/295414278/TheSpot.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/811322552/TheSpot.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/811322552/TheSpot.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-8263854/TheSpot.react-native-iap.iml" filepath="$PROJECT_DIR$/.idea/modules/-8263854/TheSpot.react-native-iap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-933451442/TheSpot.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-933451442/TheSpot.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1255674639/TheSpot.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/1255674639/TheSpot.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1131501851/TheSpot.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1131501851/TheSpot.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-22507976/TheSpot.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-22507976/TheSpot.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1338392988/TheSpot.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1338392988/TheSpot.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1351706847/TheSpot.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1351706847/TheSpot.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1202011257/TheSpot.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1202011257/TheSpot.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-927150844/TheSpot.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-927150844/TheSpot.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-969520147/TheSpot.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-969520147/TheSpot.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1591214349/TheSpot.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1591214349/TheSpot.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

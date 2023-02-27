@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TheSpot/Pods-TheSpot-resources.sh
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/PersonalizedAdConsent/PersonalizedAdConsent.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle

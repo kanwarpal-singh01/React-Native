@@ -1,0 +1,6 @@
+module Pods_TheSpot_TheSpotTests {
+  umbrella header "Pods-TheSpot-TheSpotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

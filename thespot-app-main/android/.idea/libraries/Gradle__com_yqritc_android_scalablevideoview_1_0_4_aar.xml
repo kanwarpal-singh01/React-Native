@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yqritc:android-scalablevideoview:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/339367cd72720ec5f9b77b1be705904f/jetified-android-scalablevideoview-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/339367cd72720ec5f9b77b1be705904f/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/339367cd72720ec5f9b77b1be705904f/jetified-android-scalablevideoview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3af1f0e67cee5d9190e0684e90712572/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3af1f0e67cee5d9190e0684e90712572/jetified-android-scalablevideoview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3af1f0e67cee5d9190e0684e90712572/jetified-android-scalablevideoview-1.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e005d1cc9650ca298148e9703e57429b/jetified-android-scalablevideoview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e005d1cc9650ca298148e9703e57429b/jetified-android-scalablevideoview-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e005d1cc9650ca298148e9703e57429b/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca163dd0cdbbea11a8a9ffb5df7172e5/jetified-android-scalablevideoview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca163dd0cdbbea11a8a9ffb5df7172e5/jetified-android-scalablevideoview-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca163dd0cdbbea11a8a9ffb5df7172e5/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/android-scalablevideoview/1.0.4/4366a46c3f6586959513bf09b228f115fe1e2751/android-scalablevideoview-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/android-scalablevideoview/1.0.4/390efc496a6d61b5ca96f0cb2242729c390e846/android-scalablevideoview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

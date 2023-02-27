@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088998941026",
+    "project_id": "thespot-e99e4",
+    "storage_bucket": "thespot-e99e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088998941026:android:4c7d6a172f5f52334ccc3b",
+        "android_client_info": {
+          "package_name": "com.thespotdevpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088998941026-h9rbe6m5iq9dseqksp4b7u5tvf6bsqkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbK6GdzTEyp-Zt4R91whQTfX6fUMhcj-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088998941026-h9rbe6m5iq9dseqksp4b7u5tvf6bsqkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

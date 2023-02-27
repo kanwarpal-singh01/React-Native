@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`label renders correctly 1`] = `
+<Text
+  numberOfLines={null}
+  onPress={null}
+  style={
+    Array [
+      Object {
+        "fontSize": 21,
+      },
+      Object {
+        "fontWeight": "normal",
+      },
+      Object {
+        "fontFamily": "Roboto-Regular",
+      },
+      Object {
+        "color": "#445c6d",
+        "marginBottom": 0,
+        "marginLeft": 0,
+        "marginRight": 0,
+        "marginTop": 0,
+        "textAlign": "left",
+      },
+      undefined,
+    ]
+  }
+/>
+`;

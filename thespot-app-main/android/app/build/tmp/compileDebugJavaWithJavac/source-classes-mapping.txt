@@ -1,0 +1,14 @@
+com/thespotdevpo/ReactNativeFlipper.java
+ com.thespotdevpo.ReactNativeFlipper
+ com.thespotdevpo.ReactNativeFlipper$1
+ com.thespotdevpo.ReactNativeFlipper$2
+ com.thespotdevpo.ReactNativeFlipper$2$1
+com/thespotdevpo/MainApplication.java
+ com.thespotdevpo.MainApplication
+ com.thespotdevpo.MainApplication$1
+com/thespotdevpo/MainActivity.java
+ com.thespotdevpo.MainActivity
+com/thespotdevpo/BuildConfig.java
+ com.thespotdevpo.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

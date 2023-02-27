@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LetsBuy.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>059CCE437381391F7AB5A0CCA432AC30C8DD4D42</string>
+				<key>dateExpires</key>
+				<string>09/04/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>3.13.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>059CCE437381391F7AB5A0CCA432AC30C8DD4D42</string>
+						<key>dateExpires</key>
+						<string>09/04/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OPPWAMobile.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>7MYN2R78XH</string>
+						<key>name</key>
+						<string>Smart Shopping Time</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.13.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7MYN2R78XH.com.morb7.letsBuy</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:lts.webmobtech.biz</string>
+					<string>applinks:letsbuysa.com</string>
+					<string>applinks:lts-buy.com</string>
+				</array>
+				<key>com.apple.developer.in-app-payments</key>
+				<array>
+					<string>merchant.com.letsbuy</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7MYN2R78XH</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>LetsBuy.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4a2e4ba8-40b0-4854-b0a9-3b143f4aba37</string>
+				<key>dateExpires</key>
+				<string>08/07/22</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.morb7.letsBuy</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7MYN2R78XH</string>
+				<key>name</key>
+				<string>Smart Shopping Time</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>3.7</string>
+		</dict>
+	</array>
+</dict>
+</plist>

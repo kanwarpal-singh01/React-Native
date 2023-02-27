@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.maps.android:android-maps-utils:0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc1d52a147403735fc13289e3af46cc/jetified-android-maps-utils-0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc1d52a147403735fc13289e3af46cc/jetified-android-maps-utils-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc1d52a147403735fc13289e3af46cc/jetified-android-maps-utils-0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1de9494b196ab5837b23943ad5f1ada/jetified-android-maps-utils-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1de9494b196ab5837b23943ad5f1ada/jetified-android-maps-utils-0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1de9494b196ab5837b23943ad5f1ada/jetified-android-maps-utils-0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86fdc334499a4503fd011b6b9e2eb9bc/jetified-android-maps-utils-0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86fdc334499a4503fd011b6b9e2eb9bc/jetified-android-maps-utils-0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86fdc334499a4503fd011b6b9e2eb9bc/jetified-android-maps-utils-0.5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf4784671ff419a178b1e4aa387c88c/jetified-android-maps-utils-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf4784671ff419a178b1e4aa387c88c/jetified-android-maps-utils-0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf4784671ff419a178b1e4aa387c88c/jetified-android-maps-utils-0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

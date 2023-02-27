@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123662298510-lks9eo7eac9c79sgoinhch2mtqj8obfg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123662298510-lks9eo7eac9c79sgoinhch2mtqj8obfg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>123662298510-rcpclnije4etj1v28av97bmbi8cflljh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBO8Cl_w1VJ6lWMsU0KGk1FIyzm02wnWEs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>123662298510</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.morb7.letsBuy</string>
+	<key>PROJECT_ID</key>
+	<string>letsbuy-development</string>
+	<key>STORAGE_BUCKET</key>
+	<string>letsbuy-development.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123662298510:ios:30354254b6c5d1a7</string>
+	<key>DATABASE_URL</key>
+	<string>https://letsbuy-development.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'BugExample' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for BugExample
+  pod 'Buglife', :git => 'https://gitlab.com/wmt_ios_satish/buglife-sdk-modified.git', :branch => 'master'
+
+end
